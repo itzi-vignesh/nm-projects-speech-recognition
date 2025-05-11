@@ -89,4 +89,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Error handling and logging are implemented for robust processing
 
 ## Contact
-For questions and feedback, please open an issue in the GitHub repository. 
+For questions and feedback, please open an issue in the GitHub repository or contact:
+- GitHub: [itzi-vignesh](https://github.com/itzi-vignesh)
+- Project Repository: [nm-projects-speech-recognition](https://github.com/itzi-vignesh/nm-projects-speech-recognition)
