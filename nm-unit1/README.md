@@ -88,16 +88,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Augmentation parameters can be adjusted in the code for different effects
 - Error handling and logging are implemented for robust processing
 
-## Citation
-If you use this project in your research, please cite:
-```bibtex
-@software{audio_preprocessing_2024,
-  author = {Your Name},
-  title = {Audio Data Preprocessing and Augmentation Project},
-  year = {2024},
-  url = {https://github.com/yourusername/audio-preprocessing}
-}
-```
-
 ## Contact
 For questions and feedback, please open an issue in the GitHub repository. 
