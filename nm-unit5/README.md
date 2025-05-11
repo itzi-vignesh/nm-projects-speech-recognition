@@ -32,7 +32,7 @@ Call Clarity is an advanced audio call analysis system that helps businesses mon
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/itzi-vignesh/nm-projects/nm-unit5.git
+git clone https://github.com/itzi-vignesh/nm-projects-speech-recognition.git
 cd nm-unit5
 ```
 

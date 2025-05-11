@@ -1,6 +1,6 @@
-# Contributing to Call Clarity
+# Contributing to Audio Data Preprocessing Project
 
-We love your input! We want to make contributing to Call Clarity as easy and transparent as possible, whether it's:
+We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug
 - Discussing the current state of the code
@@ -25,7 +25,7 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## Report bugs using GitHub's [issue tracker](https://github.com/itzi-vignesh/nm-projects-speech-recognition/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/itzi-vignesh/nm-projects-speech-recognition/issues/new); it's that easy!
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/itzi-vignesh/nm-projects-speech-recognition/issues/issues/new); it's that easy!
 
 ## Write bug reports with detail, background, and sample code
 
@@ -38,12 +38,6 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 - What you expected would happen
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
-
-## Use a Consistent Coding Style
-
-* Use 4 spaces for indentation rather than tabs
-* Keep line length under 100 characters
-* Run `npm run format` for style unification
 
 ## License
 By contributing, you agree that your contributions will be licensed under its MIT License. 
