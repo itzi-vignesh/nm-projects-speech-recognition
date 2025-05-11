@@ -134,7 +134,7 @@ A real-time call monitoring and compliance analysis system for customer support 
 
 ## Dashboard Overview
 
-![Dashboard showing recent calls and quick actions](assets/1.jpg)
+![Dashboard showing recent calls and quick actions](assets/1.png)
 *Main dashboard with recent calls, upload, record, and call history options.*
 
 ## Key Features
@@ -147,37 +147,37 @@ A real-time call monitoring and compliance analysis system for customer support 
 
 ## Upload Call Recording
 
-![Upload interface for call recordings](assets/2.jpg)
+![Upload interface for call recordings](assets/2.png)
 *Upload .wav or .mp3 files for compliance analysis. Tips for best results are provided.*
 
 ## Record Live Call
 
-![Live call recording interface](assets/3.jpg)
+![Live call recording interface](assets/3.png)
 *Record and analyze audio in real-time. Guidelines ensure optimal recording quality.*
 
 ## Call History
 
-![Call history with filters and export](assets/4.jpg)
+![Call history with filters and export](assets/4.png)
 *Review and filter past calls, export reports, and access detailed analysis.*
 
 ## Transcript & Compliance
 
-![Transcript and compliance score](assets/5.jpg)
+![Transcript and compliance score](assets/5.png)
 *View call transcript, compliance score, and checklist for compliance status.*
 
 ## Detailed Metrics & Sentiment
 
-![Call statistics, sentiment, and key phrases](assets/6.jpg)
+![Call statistics, sentiment, and key phrases](assets/6.png)
 *Analyze call duration, talk time, sentiment, and key phrases.*
 
 ## Compliance Analysis
 
-![Compliance status and details](assets/8.jpg)
+![Compliance status and details](assets/8.png)
 *Visualize compliance findings, violations, and compliant actions.*
 
 ## Sentiment Analysis
 
-![Sentiment analysis and interpretation](assets/9.jpg)
+![Sentiment analysis and interpretation](assets/9.png)
 *Agent tone and customer sentiment analysis with interaction quality metrics.*
 
 ## Documentation

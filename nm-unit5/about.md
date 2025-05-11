@@ -14,16 +14,16 @@ Call Clarity Monitor is an advanced call analysis platform designed to help orga
 ## High-Level Workflow
 
 1. **Audio Upload/Recording**
-   - ![Upload or record call audio](assets/2.jpg)
+   - ![Upload or record call audio](assets/2.png)
    *Modern web interface for uploading or recording calls.*
 2. **Real-Time Processing**
-   - ![Live call recording and progress](assets/3.jpg)
+   - ![Live call recording and progress](assets/3.png)
    *Live call recording with real-time progress and status updates.*
 3. **Results & History**
-   - ![Call history and analysis results](assets/4.jpg)
+   - ![Call history and analysis results](assets/4.png)
    *Review detailed transcripts, analytics, compliance reports, and historical call records.*
 4. **Transcript & Compliance**
-   - ![Transcript and compliance score](assets/5.jpg)
+   - ![Transcript and compliance score](assets/5.png)
    *Automated transcript with compliance scoring and checklist.*
 
 ## Backend Architecture
@@ -59,15 +59,15 @@ Call Clarity Monitor is an advanced call analysis platform designed to help orga
 ## User Experience Highlights
 
 - **Dashboard Overview**
-  - ![Dashboard overview](assets/1.jpg)
+  - ![Dashboard overview](assets/1.png)
   *Quick access to upload, record, and view recent calls.*
 - **Detailed Metrics & Sentiment**
-  - ![Call statistics and sentiment](assets/6.jpg)
+  - ![Call statistics and sentiment](assets/6.png)
   *Visualizes talk time, sentiment, and key phrases for operational insights.*
 - **Compliance & Sentiment Analysis**
-  - ![Compliance analysis](assets/8.jpg)
+  - ![Compliance analysis](assets/8.png)
   *Compliance findings and actionable details.*
-  - ![Sentiment analysis](assets/9.jpg)
+  - ![Sentiment analysis](assets/9.png)
   *Agent tone and customer sentiment analysis.*
 
 ## Who is it for?

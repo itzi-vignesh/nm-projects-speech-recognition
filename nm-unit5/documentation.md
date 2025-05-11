@@ -24,35 +24,35 @@ Call Clarity is an advanced audio call analysis system designed to help business
 ## Visual Workflow
 
 ### Dashboard
-![Dashboard overview](assets/1.jpg)
+![Dashboard overview](assets/1.png)
 *Main dashboard with recent calls and quick access to upload, record, and call history.*
 
 ### Upload Call Recording
-![Upload call recording](assets/2.jpg)
+![Upload call recording](assets/2.png)
 *Upload .wav or .mp3 files for compliance analysis. Tips for best results are provided.*
 
 ### Record Live Call
-![Record live call](assets/3.jpg)
+![Record live call](assets/3.png)
 *Record and analyze audio in real-time. Guidelines ensure optimal recording quality.*
 
 ### Call History
-![Call history](assets/4.jpg)
+![Call history](assets/4.png)
 *Review and filter past calls, export reports, and access detailed analysis.*
 
 ### Transcript & Compliance
-![Transcript and compliance](assets/5.jpg)
+![Transcript and compliance](assets/5.png)
 *View call transcript, compliance score, and checklist for compliance status.*
 
 ### Detailed Metrics & Sentiment
-![Detailed metrics and sentiment](assets/6.jpg)
+![Detailed metrics and sentiment](assets/6.png)
 *Analyze call duration, talk time, sentiment, and key phrases.*
 
 ### Compliance Analysis
-![Compliance analysis](assets/8.jpg)
+![Compliance analysis](assets/8.png)
 *Visualize compliance findings, violations, and compliant actions.*
 
 ### Sentiment Analysis
-![Sentiment analysis](assets/9.jpg)
+![Sentiment analysis](assets/9.png)
 *Agent tone and customer sentiment analysis with interaction quality metrics.*
 
 ---
@@ -249,22 +249,22 @@ List all jobs
 
 ### Uploading Audio
 1. Navigate to upload page
-   - ![Upload page](assets/2.jpg)
+   - ![Upload page](assets/2.png)
 2. Select file or start recording
-   - ![Record page](assets/3.jpg)
+   - ![Record page](assets/3.png)
 3. Enter agent and customer details
 4. Submit for processing
 
 ### Viewing Results
 1. Access job list
-   - ![Call history](assets/4.jpg)
+   - ![Call history](assets/4.png)
 2. Select specific job
 3. View transcript
-   - ![Transcript](assets/5.jpg)
+   - ![Transcript](assets/5.png)
 4. Analyze results
-   - ![Metrics](assets/6.jpg)
-   - ![Compliance](assets/8.jpg)
-   - ![Sentiment](assets/9.jpg)
+   - ![Metrics](assets/6.png)
+   - ![Compliance](assets/8.png)
+   - ![Sentiment](assets/9.png)
 5. Export data
 
 ## 10. Future Enhancements
