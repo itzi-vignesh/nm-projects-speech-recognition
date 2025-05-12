@@ -67,7 +67,7 @@ python manage.py runserver
 
 1. Navigate to frontend directory:
 ```bash
-cd frontend
+cd call-clarity-monitor
 ```
 
 2. Install dependencies:

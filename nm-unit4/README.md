@@ -65,7 +65,7 @@ nm-unit4/
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nm-projects-speech-recognition.git
+   git clone https://github.com/itzi-vignesh/nm-projects-speech-recognition.git
    cd nm-unit4
    ```
 
